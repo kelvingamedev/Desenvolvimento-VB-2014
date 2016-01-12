@@ -1,0 +1,2 @@
+Nelson começou a trabalhar com os alunos em um projeto de desenvolvimento de um sistema em VB que
+exemplifica diversos conceitos de acesso com o banco de dados.

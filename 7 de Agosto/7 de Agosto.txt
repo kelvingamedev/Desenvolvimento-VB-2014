@@ -1,0 +1,2 @@
+Nelson utilizou a primeira aula para passar os códigos na lousa que vão fazer o funcionamento das funcionalidades
+de 'alterar', 'novo' e 'registrar' do mini projeto. Posteriormente, os alunos deveriam passar o código para o computador.

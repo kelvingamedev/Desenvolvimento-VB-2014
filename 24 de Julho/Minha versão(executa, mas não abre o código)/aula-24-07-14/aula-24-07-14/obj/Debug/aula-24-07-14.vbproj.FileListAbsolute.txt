@@ -1,0 +1,22 @@
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.exe
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.xml
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula_24_07_14.Form1.resources
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula_24_07_14.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.vbproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.exe
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.xml
+c:\users\aluno\documents\visual studio 2013\Projects\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.pdb
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.exe.config
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.exe
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.xml
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.pdb
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24-07-14\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.exe.config
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24-07-14\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.exe
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24-07-14\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.xml
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24-07-14\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.pdb
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Minha versão(executa, mas não abre o código)\aula-24-07-14\aula-24-07-14\bin\Debug\aula-24-07-14.exe.config
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Minha versão(executa, mas não abre o código)\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.exe
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Minha versão(executa, mas não abre o código)\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.xml
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Minha versão(executa, mas não abre o código)\aula-24-07-14\aula-24-07-14\obj\Debug\aula-24-07-14.pdb

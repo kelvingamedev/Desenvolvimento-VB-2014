@@ -1,0 +1,11 @@
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.pdb
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.xml
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.Resources.resources
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.vbproj.GenerateResource.Cache
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.exe
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.xml
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.pdb

@@ -1,0 +1,31 @@
+F:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\14 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.Resources.resources
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.vbproj.GenerateResource.Cache
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.pdb
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.xml
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.exe
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.xml
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.pdb
+C:\Users\Anderson Araujo\Desktop\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.FormCadastroDeClientes.resources
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.exe
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.xml
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.pdb
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.pdb
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.xml
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.FormCadastroDeClientes.resources
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.Resources.resources
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.vbproj.GenerateResource.Cache
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe.config
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.exe
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.xml
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.pdb
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.exe
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.pdb
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\bin\Debug\locadora.xml
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.FormCadastroDeClientes.resources
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.Resources.resources
+C:\Users\GAMEOVER\Documents\VB Projects\Desenvolvimento de Software II\21 de Agosto\Projeto de hoje aqui!\fim de aula\21 de Agosto\Projeto Locadora\locadora\locadora\obj\Debug\locadora.vbproj.GenerateResource.Cache

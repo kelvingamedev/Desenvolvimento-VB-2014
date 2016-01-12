@@ -1,0 +1,14 @@
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\bin\Debug\AccssesBD.exe.config
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\bin\Debug\AccssesBD.exe
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\bin\Debug\AccssesBD.pdb
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\bin\Debug\AccssesBD.xml
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.Form1.resources
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.Resources.resources
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.vbproj.GenerateResource.Cache
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.exe
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.xml
+c:\users\henri azevedo\documents\visual studio 2013\Projects\AccssesBD\AccssesBD\obj\Debug\AccssesBD.pdb
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Versão do Henri\AccssesBD\AccssesBD\bin\Debug\AccssesBD.exe.config
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Versão do Henri\AccssesBD\AccssesBD\obj\Debug\AccssesBD.exe
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Versão do Henri\AccssesBD\AccssesBD\obj\Debug\AccssesBD.xml
+G:\ETEC JK FINAL ROUND\Desenvolvimento de Software II\24 de Julho\Versão do Henri\AccssesBD\AccssesBD\obj\Debug\AccssesBD.pdb
